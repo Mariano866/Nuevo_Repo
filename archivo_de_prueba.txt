@@ -1,0 +1,7 @@
+archivo de prueba
+
+texto con datos
+
+mas texto con datos
+
+otra linea de texto con datos
